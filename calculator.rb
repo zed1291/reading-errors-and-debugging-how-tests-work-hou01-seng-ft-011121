@@ -1,1 +1,1 @@
-first_number = 'Hello'
+first_number = 0
